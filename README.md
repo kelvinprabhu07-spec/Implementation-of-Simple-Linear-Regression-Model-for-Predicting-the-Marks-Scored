@@ -54,11 +54,10 @@ plt.show()
 ```
 
 ## Output:
+~~~
 Slope: 10.0
-
 Intercept: 0.0
-
 Predicted Marks: 75.0
-
+~~~
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
