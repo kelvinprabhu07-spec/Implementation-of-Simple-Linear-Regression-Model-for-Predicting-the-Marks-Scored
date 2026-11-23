@@ -55,7 +55,9 @@ plt.show()
 
 ## Output:
 Slope: 10.0
+
 Intercept: 0.0
+
 Predicted Marks: 75.0
 
 ## Result:
